@@ -1,10 +1,9 @@
 <script lang="ts">
+import Start from './lib/Start.svelte'
 </script>
 
 <main>
-  <p>
-    Hello.
-  </p>
+  <Start />
 </main>
 
 <style>
