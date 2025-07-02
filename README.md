@@ -1,2 +1,3 @@
-# impromptu
-A train travel planner for incrementally planning impromptu journeys
+# Impromptu - an incremental travel planner
+
+
